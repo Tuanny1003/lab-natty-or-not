@@ -20,22 +20,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O papel das IAS's na mudança do gereciamento humano das tarefas domésticas ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de explora o impacto das IA’s Generativas no auxílio de tarefas domésticas e como elas ainda poderão evoluir de modo a reduzir sobremaneira a intervenção humana
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	IA Generativa ChatGPT e Microsoft copilot para roteirização;
+•	Microsoft Copilot para criação e edição de imagens
+•	Ferramenta Word para edição.
+
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT e o Copilot" para revisar, estruturar e implementar minha pesquisa sobre IA’s Generativas bem como refinar minhas ideias. O copilot foi usado também para a criação de imagens que ilustrasse de forma divertida e clara as tarefas atuais e futuras do humano e das máquinas.
+Para concluir, a padronização dos documentos foi feita no aplicativo Word.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este documento apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IA's Generativas são poderosas ferramentas que permitirão, ainda mais, um melhor gerenciamento humano das tarefas domésticas, melhorando a qualidade de vida e promovendo a sustentabilidade.
+
+https://github.com/Tuanny1003/lab-natty-or-not/edit/main/README.md
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi desafiador e a principio confuso, mas a medida que ia mexendo foi se tornando mais claro e prazeroso.
 ```
 
 ### Exemplos e Insigths
